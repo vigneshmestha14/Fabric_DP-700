@@ -1,0 +1,2 @@
+## Introduction
+The script automates the process of downloading AdventureWorks data from GitHub, processing it, and saving it in both Parquet and CSV formats. The processed data is stored in both the lakehouse files directory and in Delta tables for further analysis and use.
